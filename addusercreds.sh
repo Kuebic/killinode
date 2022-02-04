@@ -1,0 +1,2 @@
+username=kfserver
+password=earwax
